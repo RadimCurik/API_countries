@@ -4,7 +4,9 @@
       "common": "Afghanistan",
       "official": "Islamic Republic of Afghanistan"
     },
-    "capital": ["Kabul"],
+    "capital": [
+      "Kabul"
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/af.png",
       "svg": "https://flagcdn.com/af.svg"
@@ -23,14 +25,18 @@
         "symbol": "؋"
       }
     },
-    "timezones": ["UTC+04:30"]
+    "timezones": [
+      "UTC+04:30"
+    ]
   },
   {
     "name": {
       "common": "Albania",
       "official": "Republic of Albania"
     },
-    "capital": ["Tirana"],
+    "capital": [
+      "Tirana"
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/al.png",
       "svg": "https://flagcdn.com/al.svg"
@@ -47,14 +53,18 @@
         "symbol": "L"
       }
     },
-    "timezones": ["UTC+01:00"]
+    "timezones": [
+      "UTC+01:00"
+    ]
   },
   {
     "name": {
       "common": "Algeria",
       "official": "People's Democratic Republic of Algeria"
     },
-    "capital": ["Algiers"],
+    "capital": [
+      "Algiers"
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/dz.png",
       "svg": "https://flagcdn.com/dz.svg"
@@ -71,14 +81,18 @@
         "symbol": "دج"
       }
     },
-    "timezones": ["UTC+01:00"]
+    "timezones": [
+      "UTC+01:00"
+    ]
   },
   {
     "name": {
       "common": "Argentina",
       "official": "Argentine Republic"
     },
-    "capital": ["Buenos Aires"],
+    "capital": [
+      "Buenos Aires"
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/ar.png",
       "svg": "https://flagcdn.com/ar.svg"
@@ -95,14 +109,18 @@
         "symbol": "$"
       }
     },
-    "timezones": ["UTC-03:00"]
+    "timezones": [
+      "UTC-03:00"
+    ]
   },
   {
     "name": {
       "common": "Australia",
       "official": "Commonwealth of Australia"
     },
-    "capital": ["Canberra"],
+    "capital": [
+      "Canberra"
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/au.png",
       "svg": "https://flagcdn.com/au.svg"
@@ -119,14 +137,18 @@
         "symbol": "$"
       }
     },
-    "timezones": ["UTC+10:00"]
+    "timezones": [
+      "UTC+10:00"
+    ]
   },
   {
     "name": {
       "common": "Austria",
       "official": "Republic of Austria"
     },
-    "capital": ["Vienna"],
+    "capital": [
+      "Vienna"
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/at.png",
       "svg": "https://flagcdn.com/at.svg"
@@ -143,14 +165,48 @@
         "symbol": "€"
       }
     },
-    "timezones": ["UTC+01:00"]
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Belgium",
+      "official": "Kingdom of Belgium"
+    },
+    "capital": [
+      "Brussels"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/be.png",
+      "svg": "https://flagcdn.com/be.svg"
+    },
+    "population": 11555997,
+    "region": "Europe",
+    "area": 30528,
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "nld": "Dutch"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ]
   },
   {
     "name": {
       "common": "Brazil",
       "official": "Federative Republic of Brazil"
     },
-    "capital": ["Brasília"],
+    "capital": [
+      "Brasília"
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/br.png",
       "svg": "https://flagcdn.com/br.svg"
@@ -167,14 +223,46 @@
         "symbol": "R$"
       }
     },
-    "timezones": ["UTC-03:00"]
+    "timezones": [
+      "UTC-03:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Bulgaria",
+      "official": "Republic of Bulgaria"
+    },
+    "capital": [
+      "Sofia"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/bg.png",
+      "svg": "https://flagcdn.com/bg.svg"
+    },
+    "population": 6927288,
+    "region": "Europe",
+    "area": 110994,
+    "languages": {
+      "bul": "Bulgarian"
+    },
+    "currencies": {
+      "BGN": {
+        "name": "Bulgarian lev",
+        "symbol": "лв"
+      }
+    },
+    "timezones": [
+      "UTC+02:00"
+    ]
   },
   {
     "name": {
       "common": "Canada",
       "official": "Canada"
     },
-    "capital": ["Ottawa"],
+    "capital": [
+      "Ottawa"
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/ca.png",
       "svg": "https://flagcdn.com/ca.svg"
@@ -192,14 +280,46 @@
         "symbol": "$"
       }
     },
-    "timezones": ["UTC-05:00"]
+    "timezones": [
+      "UTC-05:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Chile",
+      "official": "Republic of Chile"
+    },
+    "capital": [
+      "Santiago"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cl.png",
+      "svg": "https://flagcdn.com/cl.svg"
+    },
+    "population": 19116209,
+    "region": "Americas",
+    "area": 756102,
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "CLP": {
+        "name": "Chilean peso",
+        "symbol": "$"
+      }
+    },
+    "timezones": [
+      "UTC-04:00"
+    ]
   },
   {
     "name": {
       "common": "China",
       "official": "People's Republic of China"
     },
-    "capital": ["Beijing"],
+    "capital": [
+      "Beijing"
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/cn.png",
       "svg": "https://flagcdn.com/cn.svg"
@@ -216,14 +336,102 @@
         "symbol": "¥"
       }
     },
-    "timezones": ["UTC+08:00"]
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia"
+    },
+    "capital": [
+      "Bogotá"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/co.png",
+      "svg": "https://flagcdn.com/co.svg"
+    },
+    "population": 50882884,
+    "region": "Americas",
+    "area": 1141748,
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "COP": {
+        "name": "Colombian peso",
+        "symbol": "$"
+      }
+    },
+    "timezones": [
+      "UTC-05:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Croatia",
+      "official": "Republic of Croatia"
+    },
+    "capital": [
+      "Zagreb"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/hr.png",
+      "svg": "https://flagcdn.com/hr.svg"
+    },
+    "population": 4047200,
+    "region": "Europe",
+    "area": 56594,
+    "languages": {
+      "hrv": "Croatian"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Cuba",
+      "official": "Republic of Cuba"
+    },
+    "capital": [
+      "Havana"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/cu.png",
+      "svg": "https://flagcdn.com/cu.svg"
+    },
+    "population": 11326616,
+    "region": "Americas",
+    "area": 109884,
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "CUP": {
+        "name": "Cuban peso",
+        "symbol": "$"
+      }
+    },
+    "timezones": [
+      "UTC-05:00"
+    ]
   },
   {
     "name": {
       "common": "Czech Republic",
       "official": "Czech Republic"
     },
-    "capital": ["Prague"],
+    "capital": [
+      "Prague"
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/cz.png",
       "svg": "https://flagcdn.com/cz.svg"
@@ -240,14 +448,103 @@
         "symbol": "Kč"
       }
     },
-    "timezones": ["UTC+01:00"]
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Denmark",
+      "official": "Kingdom of Denmark"
+    },
+    "capital": [
+      "Copenhagen"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/dk.png",
+      "svg": "https://flagcdn.com/dk.svg"
+    },
+    "population": 5831404,
+    "region": "Europe",
+    "area": 43094,
+    "languages": {
+      "dan": "Danish"
+    },
+    "currencies": {
+      "DKK": {
+        "name": "Danish krone",
+        "symbol": "kr"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Egypt",
+      "official": "Arab Republic of Egypt"
+    },
+    "capital": [
+      "Cairo"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/eg.png",
+      "svg": "https://flagcdn.com/eg.svg"
+    },
+    "population": 102334403,
+    "region": "Africa",
+    "area": 1002450,
+    "languages": {
+      "ara": "Arabic"
+    },
+    "currencies": {
+      "EGP": {
+        "name": "Egyptian pound",
+        "symbol": "E£"
+      }
+    },
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Finland",
+      "official": "Republic of Finland"
+    },
+    "capital": [
+      "Helsinki"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/fi.png",
+      "svg": "https://flagcdn.com/fi.svg"
+    },
+    "population": 5530719,
+    "region": "Europe",
+    "area": 338424,
+    "languages": {
+      "fin": "Finnish",
+      "swe": "Swedish"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "timezones": [
+      "UTC+02:00"
+    ]
   },
   {
     "name": {
       "common": "France",
       "official": "French Republic"
     },
-    "capital": ["Paris"],
+    "capital": [
+      "Paris"
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/fr.png",
       "svg": "https://flagcdn.com/fr.svg"
@@ -264,14 +561,18 @@
         "symbol": "€"
       }
     },
-    "timezones": ["UTC+01:00"]
+    "timezones": [
+      "UTC+01:00"
+    ]
   },
   {
     "name": {
       "common": "Germany",
       "official": "Federal Republic of Germany"
     },
-    "capital": ["Berlin"],
+    "capital": [
+      "Berlin"
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/de.png",
       "svg": "https://flagcdn.com/de.svg"
@@ -288,14 +589,102 @@
         "symbol": "€"
       }
     },
-    "timezones": ["UTC+01:00"]
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Greece",
+      "official": "Hellenic Republic"
+    },
+    "capital": [
+      "Athens"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gr.png",
+      "svg": "https://flagcdn.com/gr.svg"
+    },
+    "population": 10715549,
+    "region": "Europe",
+    "area": 131957,
+    "languages": {
+      "ell": "Greek"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Hungary",
+      "official": "Hungary"
+    },
+    "capital": [
+      "Budapest"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/hu.png",
+      "svg": "https://flagcdn.com/hu.svg"
+    },
+    "population": 9749763,
+    "region": "Europe",
+    "area": 93028,
+    "languages": {
+      "hun": "Hungarian"
+    },
+    "currencies": {
+      "HUF": {
+        "name": "Hungarian forint",
+        "symbol": "Ft"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Iceland",
+      "official": "Iceland"
+    },
+    "capital": [
+      "Reykjavík"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/is.png",
+      "svg": "https://flagcdn.com/is.svg"
+    },
+    "population": 366425,
+    "region": "Europe",
+    "area": 103000,
+    "languages": {
+      "isl": "Icelandic"
+    },
+    "currencies": {
+      "ISK": {
+        "name": "Icelandic króna",
+        "symbol": "kr"
+      }
+    },
+    "timezones": [
+      "UTC+00:00"
+    ]
   },
   {
     "name": {
       "common": "India",
       "official": "Republic of India"
     },
-    "capital": ["New Delhi"],
+    "capital": [
+      "New Delhi"
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/in.png",
       "svg": "https://flagcdn.com/in.svg"
@@ -314,14 +703,163 @@
         "symbol": "₹"
       }
     },
-    "timezones": ["UTC+05:30"]
+    "timezones": [
+      "UTC+05:30"
+    ]
+  },
+  {
+    "name": {
+      "common": "Indonesia",
+      "official": "Republic of Indonesia"
+    },
+    "capital": [
+      "Jakarta"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/id.png",
+      "svg": "https://flagcdn.com/id.svg"
+    },
+    "population": 273523621,
+    "region": "Asia",
+    "area": 1904569,
+    "languages": {
+      "ind": "Indonesian"
+    },
+    "currencies": {
+      "IDR": {
+        "name": "Indonesian rupiah",
+        "symbol": "Rp"
+      }
+    },
+    "timezones": [
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Ireland",
+      "official": "Republic of Ireland"
+    },
+    "capital": [
+      "Dublin"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ie.png",
+      "svg": "https://flagcdn.com/ie.svg"
+    },
+    "population": 4994724,
+    "region": "Europe",
+    "area": 70273,
+    "languages": {
+      "eng": "English",
+      "gle": "Irish"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "timezones": [
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Israel",
+      "official": "State of Israel"
+    },
+    "capital": [
+      "Jerusalem"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/il.png",
+      "svg": "https://flagcdn.com/il.svg"
+    },
+    "population": 9216900,
+    "region": "Asia",
+    "area": 20770,
+    "languages": {
+      "ara": "Arabic",
+      "heb": "Hebrew"
+    },
+    "currencies": {
+      "ILS": {
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      }
+    },
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic"
+    },
+    "capital": [
+      "Rome"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/it.png",
+      "svg": "https://flagcdn.com/it.svg"
+    },
+    "population": 59554023,
+    "region": "Europe",
+    "area": 301340,
+    "languages": {
+      "ita": "Italian"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Jamaica",
+      "official": "Jamaica"
+    },
+    "capital": [
+      "Kingston"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/jm.png",
+      "svg": "https://flagcdn.com/jm.svg"
+    },
+    "population": 2961161,
+    "region": "Americas",
+    "area": 10991,
+    "languages": {
+      "eng": "English",
+      "jam": "Jamaican Patois"
+    },
+    "currencies": {
+      "JMD": {
+        "name": "Jamaican dollar",
+        "symbol": "$"
+      }
+    },
+    "timezones": [
+      "UTC-05:00"
+    ]
   },
   {
     "name": {
       "common": "Japan",
       "official": "Japan"
     },
-    "capital": ["Tokyo"],
+    "capital": [
+      "Tokyo"
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/jp.png",
       "svg": "https://flagcdn.com/jp.svg"
@@ -338,14 +876,648 @@
         "symbol": "¥"
       }
     },
-    "timezones": ["UTC+09:00"]
+    "timezones": [
+      "UTC+09:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Kenya",
+      "official": "Republic of Kenya"
+    },
+    "capital": [
+      "Nairobi"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ke.png",
+      "svg": "https://flagcdn.com/ke.svg"
+    },
+    "population": 53771300,
+    "region": "Africa",
+    "area": 580367,
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "currencies": {
+      "KES": {
+        "name": "Kenyan shilling",
+        "symbol": "Sh"
+      }
+    },
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Madagascar",
+      "official": "Republic of Madagascar"
+    },
+    "capital": [
+      "Antananarivo"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mg.png",
+      "svg": "https://flagcdn.com/mg.svg"
+    },
+    "population": 27691019,
+    "region": "Africa",
+    "area": 587041,
+    "languages": {
+      "fra": "French",
+      "mlg": "Malagasy"
+    },
+    "currencies": {
+      "MGA": {
+        "name": "Malagasy ariary",
+        "symbol": "Ar"
+      }
+    },
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Malaysia",
+      "official": "Malaysia"
+    },
+    "capital": [
+      "Kuala Lumpur"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/my.png",
+      "svg": "https://flagcdn.com/my.svg"
+    },
+    "population": 32365998,
+    "region": "Asia",
+    "area": 330803,
+    "languages": {
+      "eng": "English",
+      "msa": "Malay"
+    },
+    "currencies": {
+      "MYR": {
+        "name": "Malaysian ringgit",
+        "symbol": "RM"
+      }
+    },
+    "timezones": [
+      "UTC+08:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States"
+    },
+    "capital": [
+      "Mexico City"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mx.png",
+      "svg": "https://flagcdn.com/mx.svg"
+    },
+    "population": 128932753,
+    "region": "Americas",
+    "area": 1964375,
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "MXN": {
+        "name": "Mexican peso",
+        "symbol": "$"
+      }
+    },
+    "timezones": [
+      "UTC-06:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Morocco",
+      "official": "Kingdom of Morocco"
+    },
+    "capital": [
+      "Rabat"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ma.png",
+      "svg": "https://flagcdn.com/ma.svg"
+    },
+    "population": 36910558,
+    "region": "Africa",
+    "area": 446550,
+    "languages": {
+      "ara": "Arabic",
+      "ber": "Berber"
+    },
+    "currencies": {
+      "MAD": {
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Netherlands",
+      "official": "Kingdom of the Netherlands"
+    },
+    "capital": [
+      "Amsterdam"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/nl.png",
+      "svg": "https://flagcdn.com/nl.svg"
+    },
+    "population": 17441139,
+    "region": "Europe",
+    "area": 41850,
+    "languages": {
+      "nld": "Dutch"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "New Zealand",
+      "official": "New Zealand"
+    },
+    "capital": [
+      "Wellington"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/nz.png",
+      "svg": "https://flagcdn.com/nz.svg"
+    },
+    "population": 5084300,
+    "region": "Oceania",
+    "area": 270467,
+    "languages": {
+      "eng": "English",
+      "mri": "Māori"
+    },
+    "currencies": {
+      "NZD": {
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    },
+    "timezones": [
+      "UTC+12:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Norway",
+      "official": "Kingdom of Norway"
+    },
+    "capital": [
+      "Oslo"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/no.png",
+      "svg": "https://flagcdn.com/no.svg"
+    },
+    "population": 5379475,
+    "region": "Europe",
+    "area": 323802,
+    "languages": {
+      "nob": "Norwegian Bokmål",
+      "nno": "Norwegian Nynorsk"
+    },
+    "currencies": {
+      "NOK": {
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Peru",
+      "official": "Republic of Peru"
+    },
+    "capital": [
+      "Lima"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pe.png",
+      "svg": "https://flagcdn.com/pe.svg"
+    },
+    "population": 32971846,
+    "region": "Americas",
+    "area": 1285216,
+    "languages": {
+      "aym": "Aymara",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "PEN": {
+        "name": "Peruvian sol",
+        "symbol": "S/."
+      }
+    },
+    "timezones": [
+      "UTC-05:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Poland",
+      "official": "Republic of Poland"
+    },
+    "capital": [
+      "Warsaw"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pl.png",
+      "svg": "https://flagcdn.com/pl.svg"
+    },
+    "population": 37950802,
+    "region": "Europe",
+    "area": 312696,
+    "languages": {
+      "pol": "Polish"
+    },
+    "currencies": {
+      "PLN": {
+        "name": "Polish złoty",
+        "symbol": "zł"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Portugal",
+      "official": "Portuguese Republic"
+    },
+    "capital": [
+      "Lisbon"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/pt.png",
+      "svg": "https://flagcdn.com/pt.svg"
+    },
+    "population": 10305564,
+    "region": "Europe",
+    "area": 92090,
+    "languages": {
+      "por": "Portuguese"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "timezones": [
+      "UTC-01:00",
+      "UTC+00:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Saudi Arabia",
+      "official": "Kingdom of Saudi Arabia"
+    },
+    "capital": [
+      "Riyadh"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sa.png",
+      "svg": "https://flagcdn.com/sa.svg"
+    },
+    "population": 34813867,
+    "region": "Asia",
+    "area": 2149690,
+    "languages": {
+      "ara": "Arabic"
+    },
+    "currencies": {
+      "SAR": {
+        "name": "Saudi riyal",
+        "symbol": "ر.س"
+      }
+    },
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Slovakia",
+      "official": "Slovak Republic"
+    },
+    "capital": [
+      "Bratislava"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/sk.png",
+      "svg": "https://flagcdn.com/sk.svg"
+    },
+    "population": 5458827,
+    "region": "Europe",
+    "area": 49037,
+    "languages": {
+      "slk": "Slovak"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "South Africa",
+      "official": "Republic of South Africa"
+    },
+    "capital": [
+      "Pretoria"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/za.png",
+      "svg": "https://flagcdn.com/za.svg"
+    },
+    "population": 59308690,
+    "region": "Africa",
+    "area": 1221037,
+    "languages": {
+      "afr": "Afrikaans",
+      "eng": "English",
+      "zul": "Zulu"
+    },
+    "currencies": {
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "South Korea",
+      "official": "Republic of Korea"
+    },
+    "capital": [
+      "Seoul"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/kr.png",
+      "svg": "https://flagcdn.com/kr.svg"
+    },
+    "population": 51780579,
+    "region": "Asia",
+    "area": 100210,
+    "languages": {
+      "kor": "Korean"
+    },
+    "currencies": {
+      "KRW": {
+        "name": "South Korean won",
+        "symbol": "₩"
+      }
+    },
+    "timezones": [
+      "UTC+09:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Spain",
+      "official": "Kingdom of Spain"
+    },
+    "capital": [
+      "Madrid"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/es.png",
+      "svg": "https://flagcdn.com/es.svg"
+    },
+    "population": 47326687,
+    "region": "Europe",
+    "area": 505992,
+    "languages": {
+      "glg": "Galician",
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Sweden",
+      "official": "Kingdom of Sweden"
+    },
+    "capital": [
+      "Stockholm"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/se.png",
+      "svg": "https://flagcdn.com/se.svg"
+    },
+    "population": 10353442,
+    "region": "Europe",
+    "area": 450295,
+    "languages": {
+      "swe": "Swedish"
+    },
+    "currencies": {
+      "SEK": {
+        "name": "Swedish krona",
+        "symbol": "kr"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Switzerland",
+      "official": "Swiss Confederation"
+    },
+    "capital": [
+      "Bern"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ch.png",
+      "svg": "https://flagcdn.com/ch.svg"
+    },
+    "population": 8636896,
+    "region": "Europe",
+    "area": 41284,
+    "languages": {
+      "fra": "French",
+      "gsw": "Swiss German",
+      "ita": "Italian"
+    },
+    "currencies": {
+      "CHF": {
+        "name": "Swiss franc",
+        "symbol": "CHf"
+      }
+    },
+    "timezones": [
+      "UTC+01:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Thailand",
+      "official": "Kingdom of Thailand"
+    },
+    "capital": [
+      "Bangkok"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/th.png",
+      "svg": "https://flagcdn.com/th.svg"
+    },
+    "population": 69799978,
+    "region": "Asia",
+    "area": 513120,
+    "languages": {
+      "tha": "Thai"
+    },
+    "currencies": {
+      "THB": {
+        "name": "Thai baht",
+        "symbol": "฿"
+      }
+    },
+    "timezones": [
+      "UTC+07:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Turkey",
+      "official": "Republic of Turkey"
+    },
+    "capital": [
+      "Ankara"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/tr.png",
+      "svg": "https://flagcdn.com/tr.svg"
+    },
+    "population": 84339067,
+    "region": "Asia",
+    "area": 783562,
+    "languages": {
+      "tur": "Turkish"
+    },
+    "currencies": {
+      "TRY": {
+        "name": "Turkish lira",
+        "symbol": "₺"
+      }
+    },
+    "timezones": [
+      "UTC+03:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Ukraine",
+      "official": "Ukraine"
+    },
+    "capital": [
+      "Kyiv"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/ua.png",
+      "svg": "https://flagcdn.com/ua.svg"
+    },
+    "population": 44134693,
+    "region": "Europe",
+    "area": 603500,
+    "languages": {
+      "ukr": "Ukrainian"
+    },
+    "currencies": {
+      "UAH": {
+        "name": "Ukrainian hryvnia",
+        "symbol": "₴"
+      }
+    },
+    "timezones": [
+      "UTC+02:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "United Kingdom",
+      "official": "United Kingdom of Great Britain and Northern Ireland"
+    },
+    "capital": [
+      "London"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/gb.png",
+      "svg": "https://flagcdn.com/gb.svg"
+    },
+    "population": 67215293,
+    "region": "Europe",
+    "area": 242900,
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "GBP": {
+        "name": "British pound",
+        "symbol": "£"
+      }
+    },
+    "timezones": [
+      "UTC+00:00"
+    ]
   },
   {
     "name": {
       "common": "United States",
       "official": "United States of America"
     },
-    "capital": ["Washington, D.C."],
+    "capital": [
+      "Washington, D.C."
+    ],
     "flags": {
       "png": "https://flagcdn.com/w320/us.png",
       "svg": "https://flagcdn.com/us.svg"
@@ -362,6 +1534,64 @@
         "symbol": "$"
       }
     },
-    "timezones": ["UTC-05:00"]
+    "timezones": [
+      "UTC-05:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Vietnam",
+      "official": "Socialist Republic of Vietnam"
+    },
+    "capital": [
+      "Hanoi"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/vn.png",
+      "svg": "https://flagcdn.com/vn.svg"
+    },
+    "population": 97338583,
+    "region": "Asia",
+    "area": 331212,
+    "languages": {
+      "vie": "Vietnamese"
+    },
+    "currencies": {
+      "VND": {
+        "name": "Vietnamese đồng",
+        "symbol": "₫"
+      }
+    },
+    "timezones": [
+      "UTC+07:00"
+    ]
+  },
+  {
+    "name": {
+      "common": "Maldives",
+      "official": "Republic of Maldives"
+    },
+    "capital": [
+      "Malé"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/mv.png",
+      "svg": "https://flagcdn.com/mv.svg"
+    },
+    "population": 540542,
+    "region": "Asia",
+    "area": 300,
+    "languages": {
+      "div": "Maldivian"
+    },
+    "currencies": {
+      "MVR": {
+        "name": "Maldivian rufiyaa",
+        "symbol": ".ރ"
+      }
+    },
+    "timezones": [
+      "UTC+05:00"
+    ]
   }
 ]
